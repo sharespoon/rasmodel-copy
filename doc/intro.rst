@@ -1,5 +1,8 @@
 .. _overview:
 
+**NB:** This is a copy of https://github.com/sorgerlab/rasmodel; it is to be used *for training only*.
+------------------------------------------------------------------------------------------------------
+
 Overview
 ========
 
