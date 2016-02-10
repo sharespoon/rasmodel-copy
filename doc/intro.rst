@@ -1,9 +1,8 @@
 111.. _overview:Sharon
 
-**NB:** This is a copy of https://github.com/sorgerlab/rasmodel; it is to be used *for training only*.
-------------------------------------------------------------------------------------------------------
+**NB:** This is a copy of https://github.com/sorgerlab/rasmodel; it is to be used *for training only*.------------------------------------------------------------------------------------------------------
 
-Overview
+Overview-sharon
 ========
 
 The Ras Executable Model (REM) is a model of the signaling pathway of the Ras
